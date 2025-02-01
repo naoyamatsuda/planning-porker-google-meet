@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   output: "export",
   basePath: "/planning-porker-google-meet",
+  distDir: 'docs',
 };
 
 export default nextConfig;
